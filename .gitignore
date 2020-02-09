@@ -1,0 +1,4 @@
+# custom pathdef when starting from this folder
+pathdef.m
+# temp files
+**/*.m~
