@@ -2,3 +2,4 @@
 pathdef.m
 # temp files
 **/*.m~
+**/.~lock*
