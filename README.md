@@ -13,3 +13,6 @@ See
 (and
 [this mathworks thread](https://se.mathworks.com/matlabcentral/answers/475100-documentation-and-live-editor-shows-black-screen-on-linux))
 for a fix for the _new_ issue with black screen.
+
+
+[note to self](http://blue.math.buffalo.edu/sauer2py/)
